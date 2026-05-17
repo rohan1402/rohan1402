@@ -37,8 +37,9 @@ status: "Actively building. Actively applying."
 | Project | What it does | Stack |
 |--------|-------------|-------|
 | 🔧 **[Patchwork](https://github.com/rohan1402/patchwork)** | GitHub App that converts bug reports → regression tests → opens PRs automatically. Built solo at Zero to Agent hackathon (Vercel × Google DeepMind). | Gemini 2.5 Pro · Next.js · Octokit · Supabase · Vercel |
+| 🏥 **[Agentically](https://github.com/rohan1402/agentically)** | AI-powered compliance intelligence — lets healthcare staff search accreditation standards in plain English and get precise, cited answers without manual PDF searching. | Claude Sonnet · MongoDB Atlas · Voyage AI · Next.js · Vercel |
 | 📊 **[Rutgers LLM Benchmarking](https://github.com/rohan1402/llm-benchmarking)** | Local LLM evaluation pipeline — 4 GGUF Q4_K_M models, custom RAG harness, Groq-as-judge scoring. Built proactively at SAS IT. | llama-cpp-python · LangChain · Groq · Python |
-| 🏎️ **[F1 Race Rewind](https://github.com/rohan1402/f1-race-rewind)** | Interactive what-if race simulator — modify pit stop laps, see downstream position changes, animated lap-by-lap replay. | Python · Streamlit · FastF1 · Pandas |
+| 🏎️ **[F1 Race Rewind](https://github.com/rohan1402/f1-race-simulator)** | Interactive what-if race simulator — modify pit stop laps, see downstream position changes, animated lap-by-lap replay. | Python · Streamlit · FastF1 · Pandas |
 
 ---
 
