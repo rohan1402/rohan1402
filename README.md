@@ -8,9 +8,14 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ask_Rohan-5B5BD6?style=for-the-badge&logo=githubpages&logoColor=white)](https://rohan1402.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan1402-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan1402)
 [![GitHub](https://img.shields.io/badge/GitHub-rohan1402-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1402)
 [![Email](https://img.shields.io/badge/Email-rp1610@scarletmail.rutgers.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp1610@scarletmail.rutgers.edu)
+
+<br/>
+
+### 🤖 [Chat with an AI version of me →](https://rohan1402.github.io)
 
 </div>
 
@@ -123,4 +128,6 @@ I'm actively looking for **AI Engineer / ML Engineer / SWE internships** for Sum
 
 If you're building something interesting with agents, LLMs, or developer tooling — let's talk.
 
-📧 rp1610@scarletmail.rutgers.edu &nbsp;|&nbsp; 📱 (908) 801-0976 &nbsp;|&nbsp; 💼 [linkedin.com/in/rohan1402](https://www.linkedin.com/in/rohan1402)
+🤖 **My portfolio is a live AI assistant — [chat with an AI version of me →](https://rohan1402.github.io)**
+
+📧 rp1610@scarletmail.rutgers.edu &nbsp;|&nbsp; 📱 (908) 801-0976 &nbsp;|&nbsp; 💼 [linkedin.com/in/rohan1402](https://www.linkedin.com/in/rohan1402) &nbsp;|&nbsp; 🌐 [rohan1402.github.io](https://rohan1402.github.io)
