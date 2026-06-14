@@ -1,0 +1,42 @@
+name: Tide-Pool Ecosystem
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily ~2:17am ET (offset off the hour to dodge cron congestion)
+  workflow_dispatch:         # lets you trigger a tick manually from the Actions tab
+
+# Never trigger on push -> committing the SVG below can't re-trigger this workflow.
+
+concurrency:
+  group: tidepool
+  cancel-in-progress: true
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tick the ecosystem
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tidepool/simulate.py
+
+      - name: Commit the new frame
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/tidepool.svg tidepool/state.json
+          if git diff --cached --quiet; then
+            echo "No change this tick."
+          else
+            git commit -m "Tide-pool: daily tick [skip ci]"
+            git push
+          fi

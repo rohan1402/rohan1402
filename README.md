@@ -105,6 +105,18 @@ status: "Actively building. Actively applying."
 
 ---
 
+## 🌊 Repo Tide-Pool — a living ecosystem of my repos
+
+<div align="center">
+
+<img alt="repo tide-pool ecosystem" src="https://raw.githubusercontent.com/rohan1402/rohan1402/main/dist/tidepool.svg" width="700" />
+
+<sub>Every creature is one of my repos — sized by stars, glowing if recently active. A Lotka–Volterra predator-prey simulation re-runs daily, so the population genuinely shifts over time. Pure Python, zero API cost.</sub>
+
+</div>
+
+---
+
 ## 📬 Let's connect
 
 I'm actively looking for **AI Engineer / ML Engineer / SWE internships** for Summer/Fall 2026.
