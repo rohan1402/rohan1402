@@ -94,8 +94,8 @@ status: "Actively building. Actively applying."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohan1402&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohan1402&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="./profile/stats.svg" alt="Rohan's GitHub stats" />
+<img height="160" src="./profile/top-langs.svg" alt="Rohan's top languages" />
 
 </div>
 
