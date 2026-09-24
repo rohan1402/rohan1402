@@ -15,7 +15,7 @@
 
 <br/>
 
-### 🤖 [Chat with an AI version of me →](https://www.rohanpant.com)
+### 🤖 [Explore my work through Ask Rohan →](https://www.rohanpant.com)
 
 </div>
 
@@ -41,10 +41,13 @@ status: "Actively building. Actively applying."
 
 | Project | What it does | Stack |
 |--------|-------------|-------|
+| 🧠 **[Whyzr](https://github.com/rohan1402/Whyzr)** | Socratic AI tutor for kids, with a git-backed learning journal, tool safeguards, and repeatable evaluations. | JavaScript · gitagent · Node.js · Git |
+| 🔎 **[Quail AI Visibility Engine](https://github.com/rohan1402/scail)** | Audits how AI assistants surface a business, then assembles research, reports, and outreach materials through a tested multi-step pipeline. | Python · FastAPI · Supabase · ReportLab |
+| 💬 **[Ask Rohan](https://github.com/rohan1402/rohan1402.github.io)** | Chat-style portfolio with a model-backed mode, scripted fallback, interactive project cards, and usage limits. [Try the site](https://www.rohanpant.com). | Next.js · TypeScript · Claude · Upstash |
 | 🔧 **[Patchwork](https://github.com/rohan1402/patchwork)** | GitHub App that converts bug reports → regression tests → opens PRs automatically. Built solo at Zero to Agent hackathon (Vercel × Google DeepMind). | Gemini 2.5 Pro · Next.js · Octokit · Supabase · Vercel |
-| 🏥 **[Agentically](https://github.com/rohan1402/agentically)** | AI-powered compliance intelligence — lets healthcare staff search accreditation standards in plain English and get precise, cited answers without manual PDF searching. | Claude Sonnet · MongoDB Atlas · Voyage AI · Next.js · Vercel |
 | 📊 **[Rutgers LLM Benchmarking](https://github.com/rohan1402/llm-playground)** | Local LLM evaluation pipeline — 4 GGUF Q4_K_M models, custom RAG harness, Groq-as-judge scoring. Built proactively at SAS IT. | llama-cpp-python · LangChain · Groq · Python |
-| 🏎️ **[F1 Race Rewind](https://github.com/rohan1402/f1-race-simulator)** | Interactive what-if race simulator — modify pit stop laps, see downstream position changes, animated lap-by-lap replay. | Python · Streamlit · FastF1 · Pandas |
+
+**Beyond the code:** 🏎️ **[F1 Race Rewind](https://github.com/rohan1402/f1-race-simulator)** is my what-if race simulator — change a pit stop and watch the strategy play out lap by lap.
 
 ---
 
@@ -62,19 +65,27 @@ status: "Actively building. Actively applying."
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![gitagent](https://img.shields.io/badge/gitagent-493C80?style=flat-square)
+![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-444444?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Infra / Dev**
 
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-C33C3C?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Octokit](https://img.shields.io/badge/Octokit-181717?style=flat-square&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
@@ -124,10 +135,10 @@ status: "Actively building. Actively applying."
 
 ## 📬 Let's connect
 
-I'm actively looking for **AI Engineer / ML Engineer / SWE internships** for Summer/Fall 2026.
+I'm exploring **AI Engineer, Software Engineer, Full-stack Engineer, Data Scientist, and Data Analyst internships** while completing my MS in Data Science at Rutgers (graduating May 2027), and **full-time roles** after graduation.
 
 If you're building something interesting with agents, LLMs, or developer tooling — let's talk.
 
-🤖 **My portfolio is a live AI assistant — [chat with an AI version of me →](https://www.rohanpant.com)**
+🤖 **Ask Rohan is my interactive portfolio — [explore my projects and experience →](https://www.rohanpant.com)**
 
 📧 rp1610@scarletmail.rutgers.edu &nbsp;|&nbsp; 📱 (908) 801-0976 &nbsp;|&nbsp; 💼 [linkedin.com/in/rohan1402](https://www.linkedin.com/in/rohan1402) &nbsp;|&nbsp; 🌐 [rohanpant.com](https://www.rohanpant.com)
