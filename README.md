@@ -1,57 +1,57 @@
-<div align="center">
+<h1 align="center">Rohan Pant</h1>
 
-<!-- Animated name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hey%2C+I'm+Rohan+Pant+%F0%9F%91%8B" alt="Rohan Pant" />
+<p align="center"><strong>Software engineer building AI products and developer tools.</strong><br />
+I work on evaluations, reliable fallbacks, and automation engineers can review.</p>
 
-<!-- Rotating roles -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=3FB950&center=true&vCenter=true&width=700&height=45&lines=AI+Engineer+%7C+Building+Agent+Systems;ML+Engineer+%7C+LLM+Evaluation+%26+RAG;Software+Developer+%40+Rutgers+SAS+IT;MS+Data+Science+%40+Rutgers+%7C+May+2027" alt="Roles" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rohanpant.com-5B5BD6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rohanpant.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohan1402-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan1402)
-[![GitHub](https://img.shields.io/badge/GitHub-rohan1402-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan1402)
-[![Email](https://img.shields.io/badge/Email-rp1610@scarletmail.rutgers.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp1610@scarletmail.rutgers.edu)
-
-<br/>
-
-### 🤖 [Explore my work through Ask Rohan →](https://www.rohanpant.com)
-
-</div>
+<p align="center">
+  <a href="https://www.rohanpant.com">Explore my work through Ask Rohan →</a>
+  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/rohan1402">LinkedIn</a>
+  &nbsp;·&nbsp; <a href="mailto:rp1610@scarletmail.rutgers.edu">Email</a>
+</p>
 
 ---
 
 ```yaml
-name: Rohan Pant
-role: AI / ML Engineer Intern (seeking)
-currently_at: Rutgers University — MS Data Science (May 2027)
-also_working_as: Software Developer @ Rutgers SAS IT
-previous: Software Engineer + QA @ Cohesity (3 yrs)
-focus:
-  - Agentic AI & LLM pipelines
-  - RAG systems & custom eval frameworks
-  - Developer tooling & automation
-open_to: AI Engineer · ML Engineer · SWE Internships (F-1 OPT eligible)
-status: "Actively building. Actively applying."
+current: Software Developer @ Rutgers SAS IT
+previous: Software Engineer + QA @ Cohesity (3 years)
+education: MS Data Science @ Rutgers University (May 2027)
+focus: AI products · developer tools · full-stack systems
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| 🧠 **[Whyzr](https://github.com/rohan1402/Whyzr)** | Socratic AI tutor for kids, with a git-backed learning journal, tool safeguards, and repeatable evaluations. | JavaScript · gitagent · Node.js · Git |
-| 🔎 **[Quail AI Visibility Engine](https://github.com/rohan1402/scail)** | Audits how AI assistants surface a business, then assembles research, reports, and outreach materials through a tested multi-step pipeline. | Python · FastAPI · Supabase · ReportLab |
-| 💬 **[Ask Rohan](https://github.com/rohan1402/rohan1402.github.io)** | Chat-style portfolio with a model-backed mode, scripted fallback, interactive project cards, and usage limits. [Try the site](https://www.rohanpant.com). | Next.js · TypeScript · Claude · Upstash |
-| 🔧 **[Patchwork](https://github.com/rohan1402/patchwork)** | GitHub App that converts bug reports → regression tests → opens PRs automatically. Built solo at Zero to Agent hackathon (Vercel × Google DeepMind). | Gemini 2.5 Pro · Next.js · Octokit · Supabase · Vercel |
-| 📊 **[Rutgers LLM Benchmarking](https://github.com/rohan1402/llm-playground)** | Local LLM evaluation pipeline — 4 GGUF Q4_K_M models, custom RAG harness, Groq-as-judge scoring. Built proactively at SAS IT. | llama-cpp-python · LangChain · Groq · Python |
+| Project | Engineering work | Stack |
+|---------|------------------|-------|
+| 🧠 **[Whyzr](https://github.com/rohan1402/Whyzr)** | Built a Socratic AI tutor with safety hooks, a git-backed learning journal, and an evaluation suite. [Design and evaluations →](https://github.com/rohan1402/Whyzr#proof-the-eval-suite) | JavaScript · gitagent · Node.js · Git |
+| 🔎 **[Quail AI Visibility Engine](https://github.com/rohan1402/scail)** | Built a multi-step pipeline that audits how AI assistants surface a business, then produces research, reports, and outreach material. [Code and setup →](https://github.com/rohan1402/scail#setup) | Python · FastAPI · Supabase · ReportLab |
+| 💬 **[Ask Rohan](https://github.com/rohan1402/rohan1402.github.io)** | Built a full-stack conversational portfolio with live model responses, fallback layers, interactive project cards, and usage limits. [Live site →](https://www.rohanpant.com) · [Architecture →](https://github.com/rohan1402/rohan1402.github.io#architecture) | Next.js · TypeScript · Claude · Upstash |
+| 🔧 **[Patchwork](https://github.com/rohan1402/patchwork)** | Built a GitHub App that turns bug reports into reviewable regression-test pull requests. [How it works →](https://github.com/rohan1402/patchwork#how-it-works) · [Demo →](https://github.com/rohan1402/patchwork#demo) | Gemini 2.5 Pro · Next.js · Octokit · Supabase · Vercel |
+| 📊 **[Rutgers LLM Benchmarking](https://github.com/rohan1402/llm-playground)** | Benchmarked four local models and a PDF RAG pipeline with documented prompts, scoring, and results. [Benchmark results →](https://github.com/rohan1402/llm-playground#benchmark-results) | llama-cpp-python · LangChain · Groq · Python |
 
 **Beyond the code:** 🏎️ **[F1 Race Rewind](https://github.com/rohan1402/f1-race-simulator)** is my what-if race simulator — change a pit stop and watch the strategy play out lap by lap.
 
 ---
 
+## 🌊 Repo Tide-Pool — a living ecosystem of my repos
+
+<div align="center">
+
+<img alt="repo tide-pool ecosystem" src="https://raw.githubusercontent.com/rohan1402/rohan1402/main/dist/tidepool.svg" width="700" />
+
+<sub>Every creature is one of my repos — sized by stars, glowing if recently active. A Lotka–Volterra predator-prey simulation re-runs daily, so the population shifts over time. <a href="https://github.com/rohan1402/rohan1402/tree/main/tidepool">Explore the Python simulation →</a></sub>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
+
+**Core tools:** Python · TypeScript · Node.js · Next.js · FastAPI · PostgreSQL · Docker · GitHub Actions
+
+<details>
+<summary>More tools I use across these projects</summary>
 
 **Languages**
 
@@ -88,6 +88,8 @@ status: "Actively building. Actively applying."
 ![Octokit](https://img.shields.io/badge/Octokit-181717?style=flat-square&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+</details>
+
 ---
 
 ## 📈 GitHub Stats
@@ -109,6 +111,9 @@ status: "Actively building. Actively applying."
 
 ## 🐍 Contribution Graph
 
+<details>
+<summary>View contribution animation</summary>
+
 <div align="center">
 
 <picture>
@@ -119,26 +124,16 @@ status: "Actively building. Actively applying."
 
 </div>
 
----
-
-## 🌊 Repo Tide-Pool — a living ecosystem of my repos
-
-<div align="center">
-
-<img alt="repo tide-pool ecosystem" src="https://raw.githubusercontent.com/rohan1402/rohan1402/main/dist/tidepool.svg" width="700" />
-
-<sub>Every creature is one of my repos — sized by stars, glowing if recently active. A Lotka–Volterra predator-prey simulation re-runs daily, so the population genuinely shifts over time. Pure Python, zero API cost.</sub>
-
-</div>
+</details>
 
 ---
 
 ## 📬 Let's connect
 
-I'm exploring **AI Engineer, Software Engineer, Full-stack Engineer, Data Scientist, and Data Analyst internships** while completing my MS in Data Science at Rutgers (graduating May 2027), and **full-time roles** after graduation.
+I'm exploring **Software Engineer, AI Engineer, Full-stack Engineer, Data Scientist, and Data Analyst internships** while completing my MS in Data Science at Rutgers (graduating May 2027), and **full-time roles** after graduation.
 
-If you're building something interesting with agents, LLMs, or developer tooling — let's talk.
+If you're building AI products, developer tools, or full-stack systems, let's talk.
 
-🤖 **Ask Rohan is my interactive portfolio — [explore my projects and experience →](https://www.rohanpant.com)**
+🤖 **[Explore my projects and experience through Ask Rohan →](https://www.rohanpant.com)**
 
-📧 rp1610@scarletmail.rutgers.edu &nbsp;|&nbsp; 📱 (908) 801-0976 &nbsp;|&nbsp; 💼 [linkedin.com/in/rohan1402](https://www.linkedin.com/in/rohan1402) &nbsp;|&nbsp; 🌐 [rohanpant.com](https://www.rohanpant.com)
+📧 [Email me](mailto:rp1610@scarletmail.rutgers.edu) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rohan1402) &nbsp;|&nbsp; 🌐 [Portfolio](https://www.rohanpant.com)
